@@ -41,4 +41,4 @@ switch (ENVIRONMENT) {
 require DIR_LIBS . 'burg.php';
 require DIR_APP . 'config_append.php';
 
-burg('router');
+burg('router'); 
